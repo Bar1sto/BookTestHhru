@@ -63,7 +63,7 @@ Python версии 3.13
 Библиотека json (встроена в Python)
 
 Как запустить приложение
-git clone https://github.com/BookTestHhru.git
+git clone https://github.com/BookTestHhru
 
 cd BookTestHhru
 

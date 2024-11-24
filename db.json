@@ -1,0 +1,16 @@
+[
+    {
+        "book_id": 1,
+        "title": "Гарри Поттер",
+        "author": "Джоан Роулинг",
+        "year": 1997,
+        "status": "выдана"
+    },
+    {
+        "book_id": 2,
+        "title": "Naruto",
+        "author": "Masasi Kishimoto",
+        "year": 1999,
+        "status": "в наличии"
+    }
+]
